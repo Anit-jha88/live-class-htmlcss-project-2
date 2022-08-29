@@ -10,7 +10,7 @@
 ## Description
 
 A simple Restaurant landing page created using
-`HTML` and `CSS`. This project is hosted on both `Netlify` 
+`HTML` and `CSS`. This project is hosted on  `Netlify` 
 
 **Created By :** Anit Kumar jha
 
